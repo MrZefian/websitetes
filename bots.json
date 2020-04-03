@@ -1,0 +1,26 @@
+{
+  "515482516346503169": {
+    "botName": "Security Server#5065",
+    "prefix": "!",
+    "developerID": "444379646516264970",
+    "developerTag": "ZefianAllfian#5910",
+    "lib": "d.js",
+    "accepted": true
+  },
+  "616923633079681034": {
+    "botName": "Kocheng Ireng#1001",
+    "prefix": ">",
+    "developerID": "444379646516264970",
+    "developerTag": "ZefianAllfian#5910",
+    "lib": "d.js",
+    "accepted": true
+  },
+  "555024967272497152": {
+    "botName": "Information#5899",
+    "prefix": "$",
+    "developerID": "444379646516264970",
+    "developerTag": "ZefianAllfian#5910",
+    "lib": "d.js",
+    "accepted": true
+  }
+}
