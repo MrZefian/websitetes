@@ -10,7 +10,7 @@
     "cpu-stat": "^2.0.1",
     "discord.js": "^11.5.1",
     "ejs": "^2.6.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsdoc": "^3.6.3",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
